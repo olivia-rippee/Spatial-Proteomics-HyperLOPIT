@@ -27,7 +27,7 @@ The analysis was performed using the `pRoloc` framework in R, which provides too
 ## Files
 
 - **`Spatial Proteomics Project Code.R`**: R code used for the analysis
-- **`Spatial Proteomics Presentation.pptx`**: Presentation summarizing the project and results
+- **`Exploring protein abundance and subcellular localization using HyperLOPIT.pptx`**: Presentation summarizing the project and results
 
 ## Author
 
